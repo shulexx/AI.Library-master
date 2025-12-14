@@ -1,0 +1,346 @@
+﻿[
+  {
+    "isbn": "9786053112345",
+    "title": "Türkiye’de Yapay Zekâ Uygulamaları",
+    "author": "Ahmet Yılmaz",
+    "publisher": "Bilgi Yayınevi",
+    "year": 2021,
+    "subject": "Yapay Zekâ / Bilgisayar Bilimi",
+    "location": "B1-Raf23",
+    "summary": "Türkiye’de yapay zekânın kamu ve özel sektörde kullanım örnekleri ve gelişme alanları.",
+    "keywords": [ "yapay zekâ", "Türkiye", "etik", "özel sektör" ]
+  },
+  {
+    "isbn": "9786053112346",
+    "title": "Türkiye’de Yapay Zekâ Stratejileri",
+    "author": "Selim Koç",
+    "publisher": "Bilgi Teknoloji Yayınları",
+    "year": 2022,
+    "subject": "Yapay Zekâ / Bilgisayar Bilimi",
+    "location": "B1-Raf24",
+    "summary": "Türkiye'nin ulusal yapay zekâ stratejileri, insan kaynağı geliştirme, veri politikaları ve etik ilkeler.",
+    "keywords": [ "yapay zekâ", "Türkiye", "strateji", "etik", "kamu politikaları" ]
+  },
+
+  {
+    "isbn": "9789750745678",
+    "title": "Osmanlı İmparatorluğu’nda Hukuk Sistemi",
+    "author": "Mehmet Kaya",
+    "publisher": "Tarih Yayınları",
+    "year": 2019,
+    "subject": "Tarih / Hukuk",
+    "location": "A3-Raf10",
+    "summary": "Osmanlı hukuk sisteminin yapısı, şeriat ve örfi hukuk dengesi, kadı mahkemeleri.",
+    "keywords": [ "osmanlı", "hukuk", "şeriat", "mahkeme" ]
+  },
+  {
+    "isbn": "9789750745679",
+    "title": "Osmanlı Adalet Sistemi ve Kadılar",
+    "author": "Erdem Sancar",
+    "publisher": "Tarih Kültür Yayınları",
+    "year": 2020,
+    "subject": "Tarih / Hukuk",
+    "location": "A3-Raf11",
+    "summary": "Kadıların görevleri, Osmanlı adalet teşkilatı, şer’i ve örfi yargı mekanizmaları.",
+    "keywords": [ "osmanlı", "hukuk", "kadı", "adalet" ]
+  },
+
+  {
+    "isbn": "9789944123441",
+    "title": "Kanuni Sultan Süleyman Dönemi",
+    "author": "Hakan Erdoğdu",
+    "publisher": "Tarih Vakfı Yayınları",
+    "year": 2016,
+    "subject": "Tarih / Osmanlı",
+    "location": "A2-Raf8",
+    "summary": "Kanuni döneminde siyasi, kültürel, ekonomik gelişmeler ve askeri stratejiler.",
+    "keywords": [ "kanuni", "osmanlı", "tarih", "imparatorluk" ]
+  },
+  {
+    "isbn": "9789944123442",
+    "title": "Yavuz Sultan Selim ve Osmanlı’nın Yükselişi",
+    "author": "Fatih Özmen",
+    "publisher": "Osmanlı Tarihi Enstitüsü",
+    "year": 2018,
+    "subject": "Tarih / Osmanlı",
+    "location": "A2-Raf9",
+    "summary": "Yavuz Sultan Selim dönemi siyasi, askeri ve kültürel dönüşümler.",
+    "keywords": [ "osmanlı", "yavuz", "tarih", "imparatorluk" ]
+  },
+
+  {
+    "isbn": "9786053167890",
+    "title": "Çevre Bilimi ve Sürdürülebilirlik",
+    "author": "Selin Demir",
+    "publisher": "Üniversite Basımı",
+    "year": 2022,
+    "subject": "Çevre Bilimi",
+    "location": "C2-Raf5",
+    "summary": "Sürdürülebilir çevre politikaları, ekoloji biliminde temel kavramlar.",
+    "keywords": [ "çevre", "sürdürülebilirlik", "ekoloji" ]
+  },
+  {
+    "isbn": "9786053167891",
+    "title": "Ekolojiye Giriş ve Doğa Politikaları",
+    "author": "Emre Kaplan",
+    "publisher": "Çevre Yayınları",
+    "year": 2021,
+    "subject": "Çevre Bilimi",
+    "location": "C2-Raf6",
+    "summary": "Ekolojik denge, çevre sorunları, sürdürülebilir doğa yönetimi.",
+    "keywords": [ "çevre", "ekoloji", "doğa", "sürdürülebilirlik" ]
+  },
+
+  {
+    "isbn": "9786054881234",
+    "title": "İklim Değişikliği ve Gelecek",
+    "author": "Gökhan Çağlar",
+    "publisher": "Ekoloji Kitaplığı",
+    "year": 2020,
+    "subject": "Çevre / İklim",
+    "location": "C3-Raf2",
+    "summary": "Küresel iklim değişikliğinin ekosistemler ve insanlık üzerindeki etkileri.",
+    "keywords": [ "iklim", "çevre", "dünya", "sıcaklık" ]
+  },
+  {
+    "isbn": "9786054881235",
+    "title": "Küresel Isınma ve Ekosistem Krizi",
+    "author": "Serpil Duran",
+    "publisher": "Ekoloji Araştırmaları",
+    "year": 2021,
+    "subject": "Çevre / İklim",
+    "location": "C3-Raf3",
+    "summary": "İklim krizinin biyolojik çeşitlilik ve ekosistemler üzerindeki uzun vadeli etkileri.",
+    "keywords": [ "iklim", "çevre", "küresel ısınma" ]
+  },
+
+  {
+    "isbn": "9789944823456",
+    "title": "Dijital Dönüşüm ve Kütüphaneler",
+    "author": "Büşra Öztürk",
+    "publisher": "Akademik Kitaplar",
+    "year": 2020,
+    "subject": "Kütüphanecilik",
+    "location": "D4-Raf12",
+    "summary": "Kütüphanelerde dijital dönüşümün etkileri ve yeni nesil bilgi hizmetleri.",
+    "keywords": [ "kütüphane", "dijital dönüşüm", "yapay zekâ" ]
+  },
+  {
+    "isbn": "9789944823457",
+    "title": "Akıllı Kütüphaneler ve Yeni Teknolojiler",
+    "author": "Derya Satılmış",
+    "publisher": "Bilgi Yönetimi Yayınları",
+    "year": 2021,
+    "subject": "Kütüphanecilik",
+    "location": "D4-Raf13",
+    "summary": "Akıllı kütüphaneler, otomasyon sistemleri, yapay zekâ tabanlı hizmetler.",
+    "keywords": [ "kütüphane", "teknoloji", "otomasyon", "yapay zekâ" ]
+  },
+
+  {
+    "isbn": "9786053290123",
+    "title": "Türk Edebiyatında Postmodern Akımlar",
+    "author": "Ayşe Erdem",
+    "publisher": "Edebiyat Yayınevi",
+    "year": 2018,
+    "subject": "Edebiyat",
+    "location": "E1-Raf2",
+    "summary": "Türk edebiyatında postmodern anlayışın gelişimi ve temsilcileri.",
+    "keywords": [ "türk edebiyatı", "postmodern" ]
+  },
+  {
+    "isbn": "9786053290124",
+    "title": "Modern Türk Romanında Yeni Yönelimler",
+    "author": "Cem Aksoy",
+    "publisher": "Edebiyat Araştırmaları",
+    "year": 2019,
+    "subject": "Edebiyat",
+    "location": "E1-Raf3",
+    "summary": "Türk romanında modern dönem yaklaşımları, edebi dönüşümler ve temsilciler.",
+    "keywords": [ "türk edebiyatı", "modern", "roman" ]
+  },
+
+  {
+    "isbn": "9786052223490",
+    "title": "Kuyucaklı Yusuf",
+    "author": "Sabahattin Ali",
+    "publisher": "YKY",
+    "year": 2016,
+    "subject": "Roman / Türk Klasikleri",
+    "location": "R1-Raf7",
+    "summary": "Sabahattin Ali’nin birey-toplum çatışmasını işlediği unutulmaz romanı.",
+    "keywords": [ "roman", "klasik", "aşk" ]
+  },
+  {
+    "isbn": "9786052223491",
+    "title": "Kürk Mantolu Madonna",
+    "author": "Sabahattin Ali",
+    "publisher": "YKY",
+    "year": 2017,
+    "subject": "Roman / Türk Klasikleri",
+    "location": "R1-Raf8",
+    "summary": "Aşk ve yalnızlık temalarını işleyen Türk edebiyatının önemli eseri.",
+    "keywords": [ "roman", "klasik", "aşk" ]
+  },
+
+  {
+    "isbn": "9789750721231",
+    "title": "Sefiller",
+    "author": "Victor Hugo",
+    "publisher": "İş Bankası Kültür Yayınları",
+    "year": 2015,
+    "subject": "Roman / Dünya Klasikleri",
+    "location": "R2-Raf4",
+    "summary": "Jean Valjean’ın adalet ve merhamet mücadelesini konu alan klasik eser.",
+    "keywords": [ "dünya klasikleri", "adalet", "merhamet" ]
+  },
+  {
+    "isbn": "9789750721232",
+    "title": "Notre Dame’ın Kamburu",
+    "author": "Victor Hugo",
+    "publisher": "İş Bankası Kültür Yayınları",
+    "year": 2016,
+    "subject": "Roman / Dünya Klasikleri",
+    "location": "R2-Raf5",
+    "summary": "Victor Hugo’nun klasik eseri; adalet, özgürlük ve toplumsal değerler temaları.",
+    "keywords": [ "dünya klasikleri", "adalet", "toplum" ]
+  },
+
+  {
+    "isbn": "9786258267450",
+    "title": "Finansal Okuryazarlık",
+    "author": "Serkan Aydın",
+    "publisher": "Ekonomi Yayınları",
+    "year": 2021,
+    "subject": "Ekonomi",
+    "location": "F2-Raf1",
+    "summary": "Yatırım, para yönetimi ve modern ekonomi anlayışının temel prensipleri.",
+    "keywords": [ "ekonomi", "para", "yatırım" ]
+  },
+  {
+    "isbn": "9786258267451",
+    "title": "Yatırım Psikolojisi",
+    "author": "Seda Erim",
+    "publisher": "Ekonomi Akademi",
+    "year": 2022,
+    "subject": "Ekonomi",
+    "location": "F2-Raf2",
+    "summary": "Bireysel yatırımcı davranışları, finansal karar verme ve risk yönetimi.",
+    "keywords": [ "ekonomi", "yatırım", "psikoloji" ]
+  },
+
+  {
+    "isbn": "9789750145608",
+    "title": "Bilinçaltının Gücü",
+    "author": "Joseph Murphy",
+    "publisher": "Koridor Yayıncılık",
+    "year": 2017,
+    "subject": "Kişisel Gelişim",
+    "location": "K1-Raf9",
+    "summary": "Zihinsel gücü kullanma teknikleri ve bilinçaltı mekanizmaları.",
+    "keywords": [ "kişisel gelişim", "psikoloji", "farkındalık" ]
+  },
+  {
+    "isbn": "9789750145609",
+    "title": "Düşüncenin Gücü",
+    "author": "Nevzat Tan",
+    "publisher": "Kişisel Gelişim Yayınları",
+    "year": 2018,
+    "subject": "Kişisel Gelişim",
+    "location": "K1-Raf10",
+    "summary": "Pozitif düşüncenin etkileri, zihinsel odaklanma ve bilinçaltı teknikleri.",
+    "keywords": [ "kişisel gelişim", "zihin", "psikoloji" ]
+  },
+
+  {
+    "isbn": "9786053423450",
+    "title": "Modern Sosyoloji",
+    "author": "Ceren Tunç",
+    "publisher": "Sosyoloji Akademi",
+    "year": 2022,
+    "subject": "Sosyoloji",
+    "location": "S1-Raf3",
+    "summary": "Toplum yapısı, kültür, kimlik ve sosyal değişim üzerine modern bir inceleme.",
+    "keywords": [ "sosyoloji", "toplum", "kültür" ]
+  },
+  {
+    "isbn": "9786053423451",
+    "title": "Sosyolojik Kuramlar ve Toplum",
+    "author": "Mert Sarı",
+    "publisher": "Sosyoloji Yayınları",
+    "year": 2021,
+    "subject": "Sosyoloji",
+    "location": "S1-Raf4",
+    "summary": "Sosyolojik kuramların modern toplum üzerindeki etkileri.",
+    "keywords": [ "sosyoloji", "kültür", "kuram" ]
+  },
+
+  {
+    "isbn": "9786051245781",
+    "title": "Veri Bilimine Giriş",
+    "author": "İlker Demir",
+    "publisher": "Kodlab",
+    "year": 2023,
+    "subject": "Bilgisayar / Veri Bilimi",
+    "location": "B3-Raf11",
+    "summary": "Python ile veri bilimi, makine öğrenmesi ve istatistiksel modelleme.",
+    "keywords": [ "veri", "python", "makine öğrenmesi" ]
+  },
+  {
+    "isbn": "9786051245782",
+    "title": "İleri Veri Analizi",
+    "author": "Sena Koç",
+    "publisher": "Kodlab",
+    "year": 2023,
+    "subject": "Bilgisayar / Veri Bilimi",
+    "location": "B3-Raf12",
+    "summary": "Makine öğrenmesi teknikleri, veri görselleştirme ve büyük veri analizi.",
+    "keywords": [ "veri", "makine öğrenmesi", "veri bilimi" ]
+  },
+
+  {
+    "isbn": "9789752208523",
+    "title": "Tıpta Yapay Zekâ",
+    "author": "Elif Karaca",
+    "publisher": "Tıp Akademi",
+    "year": 2021,
+    "subject": "Tıp / Yapay Zekâ",
+    "location": "T1-Raf4",
+    "summary": "Tıpta yapay zekâ: teşhis, radyoloji, patoloji ve klinik karar destek.",
+    "keywords": [ "tıp", "yapay zekâ", "sağlık" ]
+  },
+  {
+    "isbn": "9789752208524",
+    "title": "Sağlıkta Dijital Dönüşüm",
+    "author": "Orhan Bilir",
+    "publisher": "Tıp Teknoloji Yayınları",
+    "year": 2020,
+    "subject": "Tıp / Yapay Zekâ",
+    "location": "T1-Raf5",
+    "summary": "Dijital sağlık sistemleri, yapay zekâ destekli klinik süreçler ve sağlık yönetimi.",
+    "keywords": [ "tıp", "sağlık", "dijital", "yapay zekâ" ]
+  },
+
+  {
+    "isbn": "9786049973451",
+    "title": "Makine Öğrenmesi Uygulamaları",
+    "author": "Mert Koç",
+    "publisher": "Bilim Yayınevi",
+    "year": 2020,
+    "subject": "Makine Öğrenmesi / Bilgisayar",
+    "location": "B3-Raf12",
+    "summary": "Denetimli, denetimsiz öğrenme, yapay sinir ağları ve uygulamalı makine öğrenmesi örnekleri.",
+    "keywords": [ "makine öğrenmesi", "derin öğrenme", "yapay zekâ" ]
+  },
+  {
+    "isbn": "9786049973452",
+    "title": "Derin Öğrenme Prensipleri",
+    "author": "Tolga Aksu",
+    "publisher": "Bilgisayar Akademi",
+    "year": 2021,
+    "subject": "Makine Öğrenmesi / Bilgisayar",
+    "location": "B3-Raf13",
+    "summary": "Derin öğrenme mimarileri, yapay sinir ağları, CNN ve RNN modelleri.",
+    "keywords": [ "derin öğrenme", "yapay zekâ", "makine öğrenmesi" ]
+  }
+]
